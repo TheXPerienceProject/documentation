@@ -86,4 +86,4 @@ and declare your offsets in **vendor/system.prop**.
 ----
 
 # If you need this information on Spanish click here
-[Spanish Version](https://github.com/TheXPerienceProject/documentation/porting_your_devicetree_to_xperience_español.md)
+[Spanish Version](porting_your_devicetree_to_xperience_español.md)
